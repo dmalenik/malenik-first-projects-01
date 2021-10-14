@@ -67,6 +67,9 @@ html {
 .offer-padding-size {
   padding: 10px;
 }
+.about-padding-size {
+  padding: 4% 7%;
+}
 /* zadanie_10 */
 .employees {
   display: flex;
