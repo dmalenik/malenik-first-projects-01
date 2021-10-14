@@ -1,0 +1,190 @@
+/* zadanie_2 */
+p,
+h1,
+h2 {
+  font-family: "Roboto";
+  font-size: 15px;
+}
+.credentials,
+.cv {
+  margin: 1% 3%;
+}
+/* zadanie_7 */
+html {
+  scroll-behavior: smooth;
+  display: flex;
+  justify-content: center;
+}
+/* zadanie_4 */
+.container {
+  width: 960px;
+}
+.p-size-0-7 {
+  padding: 0 7%;
+}
+.white-text {
+  color: white;
+}
+.strong-text {
+  font-weight: bolder;
+}
+.logo {
+  height: 16px;
+}
+.menu {
+  display: flex;
+  gap: 65px;
+}
+/* zadanie_7 */
+.disabled {
+  cursor: not-allowed;
+}
+.slogan-main-1 {
+  width: 50%;
+  height: 68px;
+  font-size: xx-large;
+}
+.slogan-main-2 {
+  width: 50%;
+  height: 17px;
+  font-size: medium;
+}
+/* zadanie_6 */
+.button {
+  width: 145px;
+  height: 35px;
+  border: 3px solid white;
+  color: white;
+  background-color: unset;
+  transition-timing-function: linear;
+  transition-duration: 1s;
+}
+.about-slogan {
+  color: #08073b;
+  font-size: xx-large;
+}
+/* zadanie_11 */
+.offer-padding-size {
+  padding: 10px;
+}
+/* zadanie_10 */
+.employees {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* zadanie_9 */
+.portrait {
+  padding: 11%;
+  border-radius: 155px;
+}
+.img1 {
+  background: url(./birmingham-museums-trust-Kv1hYl9LlxU-unsplash-imresizer.jpg)
+    center/contain no-repeat;
+}
+.img2 {
+  background: url(./birmingham-museums-trust-zTJX8ObJdp4-unsplash-imresizer.jpg)
+    center/contain no-repeat;
+}
+.description {
+  display: flex;
+  flex-direction: column;
+}
+.credentials {
+  font-weight: 1000;
+}
+.offer-slogan {
+  font-size: xx-large;
+  padding: 10px;
+}
+.services-box {
+  width: 100%;
+  height: 100%;
+  background-color: inherit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.service {
+  background-color: white;
+  width: 75px;
+  height: 75px;
+  padding: 40px;
+  margin: 4%;
+  box-shadow: 3px 3px 6px -1px rgba(0, 0, 0, 0.82);
+  /* zadanie_12 */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* zadanie_13 */
+  transition-property: all;
+  transition-timing-function: linear;
+  transition-duration: 0.5s;
+  position: relative;
+}
+.text {
+  color: black;
+  text-align: center;
+}
+.shape-design {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: -5px;
+  top: -5px;
+  border-radius: 171px;
+  background-color: #f67e1d;
+}
+.icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.menu-element:link,
+.menu-element:visited,
+.menu-element:hover,
+.menu-element:active {
+  text-decoration: none;
+}
+/* zadanie_6 */
+.button:hover {
+  background-color: white;
+  color: black;
+}
+/* zadanie_10 */
+.employees:nth-of-type(even) {
+  flex-direction: row-reverse;
+  text-align: right;
+}
+/* zadanie_13 */
+.service:hover {
+  transform: scale(1.05);
+}
+#navigation,
+#copyright {
+  background-color: #595856;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#main {
+  /* zadanie_5 */
+  height: 100vh;
+  /* zadanie_8 */
+  background: url("./dan-otis-OYFHT4X5isg-unsplash-imresizer.jpg") center/100%
+    100% no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 25px;
+}
+#about {
+  background-color: #f0f0f9;
+  display: flex;
+  flex-wrap: wrap;
+}
+#offer {
+  background-color: #154172;
+}
