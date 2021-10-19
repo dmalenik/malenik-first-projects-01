@@ -1,4 +1,4 @@
-# malenik-first-projects-01
+# project-1-211004
 My first projects in time of my studies at Future Collars
 
 1. Design projektu w aplikacji Figma znajdziesz pod tym adresem: https://www.figma.com/file/DGyuGsapuc5gGf5KMEEGG3/Projekt-zaliczeniowy-1
