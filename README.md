@@ -1,5 +1,5 @@
 # project-1-211004
-My first projects in time of my studies at Future Collars
+My first project with Future Collars
 
 1. Design projektu w aplikacji Figma znajdziesz pod tym adresem: https://www.figma.com/file/DGyuGsapuc5gGf5KMEEGG3/Projekt-zaliczeniowy-1
 2. Czcionka, której używamy to Roboto i jest do znalezienia na portalu Google Fonts (https://fonts.google.com)
